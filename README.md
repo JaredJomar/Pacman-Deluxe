@@ -22,4 +22,4 @@ In this project, you are tasked with adding advanced features to the existing Pa
 
 ### Phase 3 (Suggested Deadline: May 11)
 
-- **Pacman GPS**: Implement a GPS feature activated by pressing the '1' key. This GPS draws the path to any Power Up Entity on the map (e.g., Strawberry, Cherry). Each time the key is pressed, it should highlight the path to the selected Power Up. To achieve this, locate the entity and use a path-finding algorithm to determine the path from Pacman's current position to the chosen Power Up. Optionally, make the GPS always determine the shortest route for bonus points (specify this in the README.md).
+- **Pacman GPS**: Implement a GPS feature activated by pressing the '1' key. This GPS draws the path to any Power Up Entity on the map (e.g., Strawberry, Cherry). Each time the key is pressed, it should highlight the path to the selected Power Up. To achieve this, locate the entity and use a path-finding algorithm to determine the path from Pacman's current position to the chosen Power Up. Optionally, make the GPS always determine the shortest route for bonus points.
